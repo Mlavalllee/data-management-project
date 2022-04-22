@@ -1,0 +1,15 @@
+C:\Users\m.lavallee3\source\repos\Data Management Project\bin\Debug\net6.0\Data Management Project.exe
+C:\Users\m.lavallee3\source\repos\Data Management Project\bin\Debug\net6.0\Data Management Project.deps.json
+C:\Users\m.lavallee3\source\repos\Data Management Project\bin\Debug\net6.0\Data Management Project.runtimeconfig.json
+C:\Users\m.lavallee3\source\repos\Data Management Project\bin\Debug\net6.0\Data Management Project.dll
+C:\Users\m.lavallee3\source\repos\Data Management Project\bin\Debug\net6.0\ref\Data Management Project.dll
+C:\Users\m.lavallee3\source\repos\Data Management Project\bin\Debug\net6.0\Data Management Project.pdb
+C:\Users\m.lavallee3\source\repos\Data Management Project\obj\Debug\net6.0\Data Management Project.csproj.AssemblyReference.cache
+C:\Users\m.lavallee3\source\repos\Data Management Project\obj\Debug\net6.0\Data Management Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.lavallee3\source\repos\Data Management Project\obj\Debug\net6.0\Data Management Project.AssemblyInfoInputs.cache
+C:\Users\m.lavallee3\source\repos\Data Management Project\obj\Debug\net6.0\Data Management Project.AssemblyInfo.cs
+C:\Users\m.lavallee3\source\repos\Data Management Project\obj\Debug\net6.0\Data Management Project.csproj.CoreCompileInputs.cache
+C:\Users\m.lavallee3\source\repos\Data Management Project\obj\Debug\net6.0\Data Management Project.dll
+C:\Users\m.lavallee3\source\repos\Data Management Project\obj\Debug\net6.0\ref\Data Management Project.dll
+C:\Users\m.lavallee3\source\repos\Data Management Project\obj\Debug\net6.0\Data Management Project.pdb
+C:\Users\m.lavallee3\source\repos\Data Management Project\obj\Debug\net6.0\Data Management Project.genruntimeconfig.cache
